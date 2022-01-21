@@ -1,5 +1,5 @@
 # Trabajo en Clases - Semana6 - Segundo Bimestre
-
+Pareja de trabajo: Jonathan Coronel
 
 ### Actividades
 
